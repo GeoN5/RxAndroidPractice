@@ -10,3 +10,5 @@
 
 ## 결과 화면
 <img src="https://user-images.githubusercontent.com/32415360/57864790-7c922e00-7837-11e9-9939-6a7896ba9fbe.jpg" width="300">
+
+- KRW코인에 해당하는 코인들에 대한 정보들을 가져와 보여줌.
